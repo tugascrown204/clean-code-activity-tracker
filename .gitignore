@@ -7,3 +7,11 @@ dist/
 .env
 # Ignore .env.local for local environment settings
 .env.local
+
+# Miscellaneous files to ignore
+# Ignore logs directory
+logs/
+# Ignore local IDE configuration files
+.vscode/
+# Ignore OS generated files
+.DS_Store
