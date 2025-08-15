@@ -1,0 +1,13 @@
+{
+  "name": "clean-code-activity-tracker",
+  "version": "1.0.0",
+  "description": "A simple web application to track daily activities while demonstrating clean code principles.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15"
+  }
+}
